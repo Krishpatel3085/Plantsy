@@ -207,7 +207,7 @@
     width: 100%;
     height: auto;
     background-image: url(./Imgs/image.png);
-    background-position:center left bottom;
+    background-position: center left bottom;
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -217,51 +217,90 @@
     height: 200px;
 
 }
-.three-box h3{
+
+.three-box h3 {
     font-size: 32px;
 }
+
 .three-box p {
     font-size: 14px;
 }
-.three-box button{
+
+.three-box button {
     width: 150px;
     height: 45px;
     background-color: transparent;
-    border:3px solid #537749;
+    border: 3px solid #537749;
 }
-#box-three{
+
+#box-three {
     display: flex;
     justify-content: end;
     align-items: center;
 }
-#box-3-img{
+
+#box-3-img {
     display: flex;
     justify-content: center;
 }
+
 /*Section Four  */
-.Section-four{
+.Section-four {
     width: 100%;
     height: 120px;
     background-color: #CEE49D;
     display: flex;
     align-items: center;
-    
+
 }
-.Section-four .row{
+
+.Section-four .row {
     display: flex;
     justify-content: center;
 }
-#services{
+
+#services {
     display: flex;
     gap: 10px;
     width: 400px;
     height: 80px;
     cursor: pointer;
-    
+
 }
-.service p{
+
+.service p {
     font-size: 14px;
 }
-#services i{
+
+#services i {
     font-size: 45px;
+}
+
+/* Section Five */
+.section-five {
+    width: 100%;
+    text-align: center;
+    background-image: url(./Imgs/section-five.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.arrivels {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.arrivels h5{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 40px;
+}
+.arrivels-1 img {
+    width: 240px;
+    height: auto;
+    margin: auto;
 }
