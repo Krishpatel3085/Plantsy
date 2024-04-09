@@ -294,13 +294,35 @@
     gap: 40px;
     flex-wrap: wrap;
 }
-.arrivels h5{
+
+.arrivels h5 {
     font-size: 18px;
     font-weight: 600;
     line-height: 40px;
 }
+
 .arrivels-1 img {
     width: 240px;
     height: auto;
     margin: auto;
+}
+
+.section-six {
+    width: 100%;
+    height: auto;
+    background-color: #CEE49D;
+    
+}
+.section-six .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-six .col-md-3{
+    display: flex;
+    justify-content: center;
+
+}
+.plant-verity{
+    text-align: center;
 }

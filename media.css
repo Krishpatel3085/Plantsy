@@ -17,21 +17,24 @@
     #text-box p {
         font-size: 15px;
     }
-    #three-img img{
+
+    #three-img img {
         width: 270px;
         height: 300px;
     }
-    
+
     .three-box {
         width: 400px;
         height: 200px;
-    
+
     }
-    .Section-four{
+
+    .Section-four {
         width: 100%;
-        height: 250px;    
+        height: 250px;
     }
-    #services{
+
+    #services {
         margin-top: 20px;
     }
 }
@@ -40,10 +43,12 @@
     #top-bar {
         display: none;
     }
-    #box-1{
+
+    #box-1 {
         width: 100%;
         height: 400px;
     }
+
     #first-p2 {
         display: none;
     }
@@ -52,51 +57,63 @@
         width: 500px;
         height: 200px;
     }
-    #plant img{
+
+    #plant img {
         width: 360px;
         height: 360px;
-       
+
     }
-    #list ul{
+
+    #list ul {
         font-size: 18.6px;
     }
-    #three-img-3{
+
+    #three-img-3 {
         margin-top: -100px;
         margin-right: 320px;
     }
-    #three-img-2{
+
+    #three-img-2 {
         margin-top: 220px;
     }
+
     .three-box {
         width: 300px;
         height: 150px;
-    
+
     }
-    .three-box h3{
+
+    .three-box h3 {
         font-size: 25px;
     }
+
     .three-box p {
         font-size: 14px;
     }
-    .three-box button{
+
+    .three-box button {
         width: 140px;
         height: 40px;
     }
-    #box-3-img img{
+
+    #box-3-img img {
         display: flex;
         align-items: center;
         justify-content: end;
         width: 350px;
         height: 350px;
     }
-    .Section-four{
+
+    .Section-four {
         width: 100%;
-        height: 250px;    
+        height: 250px;
     }
-    #services{
+
+    #services {
         width: 360px;
     }
-    #services{
+
+    #services {
         margin-top: 20px;
     }
 }
@@ -109,60 +126,78 @@
     #first-p2 {
         display: none;
     }
+
     .text-box {
         width: 300px;
         height: 100px;
         margin-bottom: 100px;
     }
- 
-    #box-1{
-       width: 100%;
-       height: 245px;
+
+    #box-1 {
+        width: 100%;
+        height: 245px;
     }
+
     #text-box h2 {
         font-size: 18px;
         font-weight: 500px;
     }
-    #plant{
+
+    #plant {
         justify-content: center;
     }
-    #plant img{
+
+    #plant img {
         width: 340px;
-        height: 340px; 
+        height: 340px;
     }
-    #list ul{
+
+    #list ul {
         font-size: 20.6px;
     }
-    #three-img-3{
+
+    #three-img-3 {
         margin-top: 10px;
     }
-    #three-img-2{
+
+    #three-img-2 {
         margin-top: 10px;
     }
+
     .three-box {
         width: 370px;
         height: 250px;
-    
+
     }
+
     .three-box p {
         font-size: 16px;
     }
-    #box-3-img img{
+
+    #box-3-img img {
         width: 400px;
         height: 370px;
     }
-    .Section-four{
-        height: 400px;    
+
+    .Section-four {
+        height: 400px;
     }
-    #services{
+
+    #services {
         width: 360px;
     }
-    #services{
+
+    #services {
         margin-top: 30px;
     }
-    
+
+    .section-six .col-md-3 {
+        padding: 15px;
+
+    }
 }
-@media (max-width: 424px) and (min-width:375px){
+
+@media (max-width: 424px) and (min-width:375px) {
     #top-bar {
         display: none;
     }
@@ -170,111 +205,147 @@
     #first-p2 {
         display: none;
     }
+
     #box-1 {
         background-blend-mode: hue;
         height: 300px;
-     }
-   
-    #text-box h2{
+    }
+
+    #text-box h2 {
         font-size: 20px;
     }
+
     .text-box {
         width: 250px;
         height: 70px;
         margin-bottom: 100px;
     }
-    #plant{
+
+    #plant {
         justify-content: center;
     }
-    #plant img{
-        width: 300px;
-        height: 300px; 
-    }
-    #list ul{
-        font-size: 18.6px;
-    }
-    #three-img-3{
-        margin-top: 10px;
-    }
-    #three-img-2{
-        margin-top: 10px;
-    }
-    .three-box{
-        width: 320px;
-        height: auto;
-    }
-    #box-3-img img{
+
+    #plant img {
         width: 300px;
         height: 300px;
     }
-    .Section-four{
-        height: 400px;    
+
+    #list ul {
+        font-size: 18.6px;
     }
-    #services{
+
+    #three-img-3 {
+        margin-top: 10px;
+    }
+
+    #three-img-2 {
+        margin-top: 10px;
+    }
+
+    .three-box {
+        width: 320px;
+        height: auto;
+    }
+
+    #box-3-img img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .Section-four {
+        height: 400px;
+    }
+
+    #services {
         width: 360px;
     }
-    #services{
+
+    #services {
         margin-top: 30px;
     }
+
+    .section-six .col-md-3 {
+        padding: 15px;
+    }
 }
-@media (max-width: 374px) and (min-width:320px){
+
+@media (max-width: 374px) and (min-width:320px) {
     #top-bar {
         display: none;
     }
+
     #box-1 {
-       background-blend-mode: hue;
-       height: 300px;
+        background-blend-mode: hue;
+        height: 300px;
     }
+
     #first-p2 {
         display: none;
     }
 
-    #text-box h2{
-        font-size:20.8px;
+    #text-box h2 {
+        font-size: 20.8px;
     }
+
     .text-box {
         width: 250px;
         height: 70px;
         margin-bottom: 100px;
     }
-    .text-box button{
+
+    .text-box button {
         width: 100px;
         height: 30px;
         font-size: 18px;
     }
-    #plant{
+
+    #plant {
         justify-content: center;
     }
-    #plant img{
+
+    #plant img {
         width: 300px;
-        height: 300px; 
+        height: 300px;
     }
-    #list ul{
+
+    #list ul {
         font-size: 18.6px;
     }
-    #three-img-3{
+
+    #three-img-3 {
         margin-top: 10px;
     }
-    #three-img-2{
+
+    #three-img-2 {
         margin-top: 10px;
-    } 
+    }
+
     .three-box {
         width: 400px;
         height: 250px;
         /* text-align: center; */
-    
+
     }
-    #box-3-img img{
+
+    #box-3-img img {
         width: 300px;
         height: 300px;
     }
-    .Section-four{
-        height: 400px;    
+
+    .Section-four {
+        height: 400px;
     }
-    #services{
+
+    #services {
         width: 360px;
     }
-    #services{
+
+    #services {
         margin-top: 30px;
+    }
+
+    .section-six .col-md-3 {
+     padding: 15px;
+
     }
 }
