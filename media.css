@@ -200,10 +200,12 @@
         width: 360px;
         height: 35px;
     }
-    #foot{
+
+    #foot {
         display: none;
     }
 }
+
 @media (max-width: 424px) and (min-width:375px) {
     #top-bar {
         display: none;
@@ -279,7 +281,8 @@
         width: 310px;
         height: 35px;
     }
-    #foot{
+
+    #foot {
         display: none;
     }
 }
@@ -297,15 +300,19 @@
     #first-p2 {
         display: none;
     }
-    .header img{
+
+    .header img {
         width: 170px;
     }
+
     #text-box h2 {
         font-size: 20.8px;
     }
-#list li{
-    font-size: 16px;
-}
+
+    #list li {
+        font-size: 16px;
+    }
+
     .text-box {
         width: 250px;
         height: 70px;
@@ -384,13 +391,15 @@
         height: 50px;
         font-size: 16px;
     }
-    #foot{
+
+    #foot {
         display: none;
     }
-    .contact-2 input{
+
+    .contact-2 input {
         width: 200px;
         height: 35px;
         padding-left: 8px;
     }
-  
+
 }
