@@ -311,18 +311,49 @@
     width: 100%;
     height: auto;
     background-color: #CEE49D;
-    
+
 }
-.section-six .row{
+
+.section-six .row {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.section-six .col-md-3{
+
+.section-six .col-md-3 {
     display: flex;
     justify-content: center;
 
 }
-.plant-verity{
+
+.plant-verity {
     text-align: center;
+}
+
+/* Section seven */
+.section-seven {
+    width: 100%;
+}
+
+.section-seven .card {
+    background-color: #CEE49D;
+    padding: 15px;
+    width: 350px;
+    height: 400px;
+}
+
+.section-seven .card h5 {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.section-seven .card p {
+    font-size: 12.8px;
+}
+
+.section-seven .col-md-12 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
 }
